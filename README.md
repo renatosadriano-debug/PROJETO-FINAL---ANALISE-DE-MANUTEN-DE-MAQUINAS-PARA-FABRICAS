@@ -106,7 +106,28 @@ O modelo recomendado é a **Árvore de Decisão (max_depth=5)**, pela maior acur
 
 ## 🎥 Vídeo de apresentação
 
-[Assista aqui](COLOQUE_O_LINK_DO_GOOGLE_DRIVE_AQUI)
+[Assista aqui]
+
+Link do Video explicativo do Projeto Avaliativo
+Pasta - https://drive.google.com/drive/folders/1yzaJAfL_OfmE0qm7H2mRK2_zFFKvfRwt?usp=sharing
+Video - https://drive.google.com/file/d/1H36oCkm2IXtL5s5yYB8VQ_356aWDMaiu/view?usp=drive_link
+
+
+Link do Notion – Organização e acompanhamento do projeto 
+https://app.notion.com/p/PROJETO-FINAL-Desenvolvimento-de-IA-para-An-lise-Preditiva-T1-37735d940f7d80dab141fbd231575de7?source=copy_link
+
+Extra – fora da avaliação
+
+Versão 2.0 do Projeto em py
+
+Link Repositório do Github 
+
+https://github.com/renatosadriano-debug/olho-na-maquina.git
+
+Link do Video Explicativo da Versão 2.0
+
+Pasta - https://drive.google.com/drive/folders/1rxMX2FR0k2Wq9hxbcpx2xQOvgAjE1rpB?usp=drive_link
+Video - https://drive.google.com/file/d/1rozGUn0yRhUHkBG-fx2l6p6swrrMtgAx/view?usp=sharing
 
 ## 👤 Autor
 
